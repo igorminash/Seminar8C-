@@ -1,0 +1,15 @@
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\obj\Debug\net6.0\Zadacha58.csproj.AssemblyReference.cache
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\obj\Debug\net6.0\Zadacha58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\obj\Debug\net6.0\Zadacha58.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\obj\Debug\net6.0\Zadacha58.AssemblyInfo.cs
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\obj\Debug\net6.0\Zadacha58.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\bin\Debug\net6.0\Zadacha58.exe
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\bin\Debug\net6.0\Zadacha58.deps.json
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\bin\Debug\net6.0\Zadacha58.runtimeconfig.json
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\bin\Debug\net6.0\Zadacha58.dll
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\bin\Debug\net6.0\Zadacha58.pdb
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\obj\Debug\net6.0\Zadacha58.dll
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\obj\Debug\net6.0\refint\Zadacha58.dll
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\obj\Debug\net6.0\Zadacha58.pdb
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\obj\Debug\net6.0\Zadacha58.genruntimeconfig.cache
+C:\Users\37533\Desktop\Обучение\Seminar8C#Zadachi\Zadacha58\obj\Debug\net6.0\ref\Zadacha58.dll
